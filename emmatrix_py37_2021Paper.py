@@ -1,4 +1,4 @@
-import plotting_help_py3 as ph
+import plotting_help_py3_2021Paper as ph
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import numpy as np
